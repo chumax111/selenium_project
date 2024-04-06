@@ -4,7 +4,11 @@ username_field = '//*[@id="user-name"]'
 password_field = '//*[@id="password"]'
 login_button = '//*[@id="login-button"]'
 error_login_cross = '//*[@class="error-button"]'
+
+# CART
 cart_button = '//*[@id="shopping_cart_container"]'
+
+# FIRST PRODUCT
 first_add_to_cart_button = '(//*[text()="ADD TO CART"])[1]'
 first_product_id = '//*[@id="item_4_title_link"]'
 
